@@ -112,3 +112,7 @@ O projeto **rarenft100** demonstra domínio dos conceitos fundamentais de smart 
 ## Autor
 
 Projeto desenvolvido por **Crisan Cesar** como parte de um bootcamp de blockchain.
+
+Move Registry:
+https://www.moveregistry.com/package/@pkg/rarenft100
+
